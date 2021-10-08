@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<suite name="BigBasket">
+	<test name="BB_tests">
+		<classes>
+			<class name="base.Base"/>
+			<class name="testSuiteBDD.TestRunnerHome"/>
+		</classes>
+	</test>
+</suite>
